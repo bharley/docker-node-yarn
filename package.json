@@ -1,0 +1,13 @@
+{
+  "name": "docker-node-yarn",
+  "version": "1.0.0",
+  "main": "bin/generate.js",
+  "author": "Blake Harley <blake@blakeharley.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node bin/generate"
+  },
+  "devDependencies": {
+    "chalk": "^1.1.3"
+  }
+}
